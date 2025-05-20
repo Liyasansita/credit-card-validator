@@ -1,3 +1,4 @@
+for live demo:https://liyasansita.github.io/credit-card-validator/
 to check the working:![Screenshot (356)](https://github.com/user-attachments/assets/5316e2d0-aa3f-4922-b45f-93e65e8cad2e)
 ![Screenshot (357)](https://github.com/user-attachments/assets/ea12b5b4-fa08-45c0-ac2c-92dd93e0b50c)
 
