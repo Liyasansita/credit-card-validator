@@ -18,4 +18,4 @@ Bootstrap – Styling and responsiveness
 validator.js – Credit card validation
 
 JavaScript (ES6) – Logic and interactivity
-to check the working:![Screenshot (356)](https://github.com/user-attachments/assets/bcaece65-d8a6-4629-b753-3d8673621ab8)
+
